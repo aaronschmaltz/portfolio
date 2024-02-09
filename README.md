@@ -1,2 +1,2 @@
-# portfolio
-A repository with my personal portfolio.
+# Portfolio
+A repository with writing samples from my personal portfolio.

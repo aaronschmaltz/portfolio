@@ -36,22 +36,17 @@ Nationally, both the fatal and nonfatal drowning rates are higher for children w
 An early 1980s study performed by the City and County of Honolulu Department of Parks and Recreation found that 70% of a tested group of 4,500 students, 7-14 years in age, were unable to swim 50 yards.[[6]](#_ftn6) HAA’s 2018-19 school year report of 564 second grade-aged students identified similar deficiencies in multiple protective skills. The students were assessed during their first in-water lesson for proficiency relative to grade level benchmarks in three basic aquatic motor skills: floating, treading, and swimming. As presented in Table 1, only 31% of the students could swim for 25 yards. Further, only 13% of the students were able to tread for 60 seconds, and only 12% were able to float for 30 seconds.
 
 Table 1
+
 *Pre-Instruction Assessments*
 
-|Level /<br><br>Skill|Un-<br><br>satisfactory|Progressing|Satisfactory|
-|---|---|---|---|
-|Float|< 15 secs|15–29 secs|30+ secs|
-|---|---|---|---|
-|73%|15%|12%|
-|---|---|---|
-|Tread|< 20 secs|20–59 secs|60+ secs|
-|---|---|---|---|
-|61%|26%|13%|
-|---|---|---|
-|Swim|< 10 yards|10–24 yards|25+ yards|
-|---|---|---|---|
-|40%|29%|31%|
-|---|---|---|
+| Level / Skill | Un-satisfactory | Progressing | Satisfactory |
+| :---: | :---: | :---: | :---: |
+| Float | < 15 secs | 15–29 secs | 30+ secs |
+| | 73% | 15% | 12% |
+| Tread | < 20 secs | 20–59 secs | 60+ secs |
+| | 61% | 26% | 13% |
+| Swim | < 10 yards | 10–24 yards | 25+ yards |
+| | 40% | 29% | 31% |
 
 The American Red Cross states that proficiency in multiple aquatic skills has been identified as a key requirement of personal aquatic safety competency.[[7]](#_ftn7) For example, self-recovery situations often require the ability to temporarily halt swimming to float and recover or to tread in a fixed position and scan for hazards. As illustrated in Figure 1, 63% of the students assessed at the start of the course were unable to satisfactorily demonstrate the grade level benchmark in any of the three basic aquatic motor skills. While 37% of the students were able to satisfactorily demonstrate at least one of the skills, only 16% were able to satisfactorily demonstrate two or more of the skills, and just 2% were able to satisfactorily demonstrate all three of the skills.![](file:///C:/Users/aschm/AppData/Local/Temp/msohtmlclip1/01/Figure1.png)
 
@@ -77,9 +72,19 @@ The lesson plans for our elementary school curriculum consist of one hour of cla
 
 Our program is integrated with each school’s existing curriculum requirements and scheduling constraints through careful planning and coordination with their administration, teachers, and special education assistants. Four distinct areas of tasks and responsibilities are:
 
-|   |   |
-|---|---|
-|Scheduling and logistics<br><br>●      Coordinating with participating schools<br><br>●      Scheduling pool facility reservations<br><br>●      Organizing transportation<br><br>●      Scheduling instructors and support staff<br><br>●      Procuring appropriate swimwear for students in lower-income areas<br><br>Instructional activities<br><br>●      Developing lesson plans<br><br>●      Tracking attendance<br><br>●      Providing instruction<br><br>●      Performing assessments<br><br>●      Accommodating special needs students|Student safety and well-being<br><br>●      Providing safety equipment<br><br>●      Supporting school chaperones<br><br>●      Ensuring an average instructor-<br><br>student ratio of 1:4<br><br>●      Facilitating instructor, staff, and volunteer training<br><br>Post-instruction activities<br><br>●      Distributing parent safety information<br><br>●      Analyzing student assessment data<br><br>●      Generating student performance reports and school summaries<br><br>●      Producing annual statewide reports|
+| **Scheduling and logistics** | **Student safety and well-being** |
+| :--- | :--- |
+| ● Coordinating with participating schools | ● Providing safety equipment |
+| ● Scheduling pool facility reservations | ● Supporting school chaperones |
+|	● Organizing transportation | ● Ensuring an average instructor-student ratio of 1:4 |
+| ● Scheduling instructors and support staff | ● Facilitating instructor, staff, and volunteer training |
+| ● Procuring appropriate swimwear for students in lower-income areas |  |
+| **Instructional activities** | **Post-instruction activities** |
+| ● Developing lesson plans | ● Distributing parent safety information |
+| ● Tracking attendance | ● Analyzing student assessment data |
+|	● Providing instruction | ● Generating student performance reports and school summaries |
+| ● Performing assessments | ● Producing annual statewide reports |
+| ● Accommodating special needs students |  |
 
 ## Outcomes
 
@@ -110,9 +115,9 @@ It is widely accepted that student attendance is a powerful predictor of academi
 
 The timeline for the 2023–24 school year of the program is aligned with the HIDOE school quarters (Q1–Q4). The number of students per quarter is distributed evenly throughout the school year, with the exception of a reduced number during the months of January through March (i.e., Q3) due to cooler pool water temperatures in non-heated pools. The distribution across islands and HIDOE complex areas will vary from quarter to quarter based on each school’s preferences and pool facility availability. The planned distribution of students is as follows:
 
-|   |   |   |   |
-|---|---|---|---|
-|Q1 - 600 students|Q2 - 700 students|Q3 - 500 students|Q4 - 700 students|
+| Q1 | Q2 | Q3 | Q4 |
+| :--: | :--: | :--: | :--: |
+| 600 students | 700 students | 500 students | 700 students |
 
 ## Personnel and qualifications
 

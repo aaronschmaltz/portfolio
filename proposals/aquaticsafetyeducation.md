@@ -6,7 +6,7 @@ Drowning is a leading cause of death for Hawaii's children. Although Hawaii is a
 
 ## Organization history and purpose
 
-The Hawaii Aquatics Foundation (HAF) is dedicated to improving the healthy development of Hawaii’s children and families by providing, promoting, and supporting aquatic injury prevention education and research. HAF is an IRS 501(c)(3) tax-exempt nonprofit organization that was established in 2017. The foundation was formed in response to drowning being the leading cause of injury death for Hawaii’s children (ages 1-14)1 and Hawaii having the second highest drowning rate per capita for all ages in the nation.
+The Hawaii Aquatics Foundation (HAF) is dedicated to improving the healthy development of Hawaii’s children and families by providing, promoting, and supporting aquatic injury prevention education and research. HAF is an IRS 501(c)(3) tax-exempt nonprofit organization that was established in 2017. The foundation was formed in response to drowning being the leading cause of injury death for Hawaii’s children (ages 1-14)[[1]](#_ftn1) and Hawaii having the second highest drowning rate per capita for all ages in the nation.
 
 The Hawaii Aquatics Academy (HAA), the education branch of HAF, is a leader in providing comprehensive aquatic safety education content and services to Hawaii’s schools. Our objectives are in line with national and international drowning prevention strategies. HAA’s childhood education programs promote safety and well-being for all of Hawaii’s children, regardless of their physical condition or their cultural, social, or economic circumstances, through a combination of classroom- and pool-based instructional activities.
 
@@ -52,7 +52,7 @@ The American Red Cross states that proficiency in multiple aquatic skills has be
 
 <!--cannot resize images with standard markdown ![Figure 1: Multi-Skill Evaluation - Pre-Instruction](/../main/proposals/images/figure1.png) -->
 
-<img src="https://github.com/aaronschmaltz/portfolio/blob/main/proposals/images/figure1.png" width=75% height=75%>
+<img src="https://github.com/aaronschmaltz/portfolio/blob/main/proposals/images/figure1.png" width=50% height=50%>
 
 ## Goals and objectives
 

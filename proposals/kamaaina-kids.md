@@ -38,9 +38,8 @@ We are requesting a total of $60,000 for the proposed program.
 
 The A+ program’s standard monthly tuition rate of $200 (or $2,400 per year) per student covers the expenses incurred by Kama‘aina Kids; the organization receives no additional revenue from tuition fees. The standard registration fee of $50 will be waived for scholarship recipients. The following budget covers the expenses involved with the enrollment of 25 students.
 
-|   |   |   |
-|---|---|---|
 |**Line Item**|**Monthly**|**Annual**|
+|:---:|:---:|:---:|
 |School Age Managers|1,400|16,800|
 |Site Coordinators|1,100|13,200|
 |Group Leaders|1,300|15,600|
@@ -54,9 +53,8 @@ The A+ program’s standard monthly tuition rate of $200 (or $2,400 per year) pe
 
 We request that the payments be made in monthly increments over a year to cover expenses involved with the 25 students’ enrollment.
 
-|   |   |
-|---|---|
 |**Date**|**Amount**|
+|:---:|:---:|
 |August 20, 2022|$5,000|
 |September 20, 2022|$5,000|
 |October 20, 2022|$5,000|

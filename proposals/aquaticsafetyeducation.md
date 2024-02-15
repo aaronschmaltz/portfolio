@@ -48,7 +48,9 @@ Table 1
 | Swim | < 10 yards | 10–24 yards | 25+ yards |
 | | 40% | 29% | 31% |
 
-The American Red Cross states that proficiency in multiple aquatic skills has been identified as a key requirement of personal aquatic safety competency.[[7]](#_ftn7) For example, self-recovery situations often require the ability to temporarily halt swimming to float and recover or to tread in a fixed position and scan for hazards. As illustrated in Figure 1, 63% of the students assessed at the start of the course were unable to satisfactorily demonstrate the grade level benchmark in any of the three basic aquatic motor skills. While 37% of the students were able to satisfactorily demonstrate at least one of the skills, only 16% were able to satisfactorily demonstrate two or more of the skills, and just 2% were able to satisfactorily demonstrate all three of the skills.![](file:///C:/Users/aschm/AppData/Local/Temp/msohtmlclip1/01/Figure1.png)
+The American Red Cross states that proficiency in multiple aquatic skills has been identified as a key requirement of personal aquatic safety competency.[[7]](#_ftn7) For example, self-recovery situations often require the ability to temporarily halt swimming to float and recover or to tread in a fixed position and scan for hazards. As illustrated in Figure 1, 63% of the students assessed at the start of the course were unable to satisfactorily demonstrate the grade level benchmark in any of the three basic aquatic motor skills. While 37% of the students were able to satisfactorily demonstrate at least one of the skills, only 16% were able to satisfactorily demonstrate two or more of the skills, and just 2% were able to satisfactorily demonstrate all three of the skills.
+
+![Figure 1: Multi-Skill Evaluation - Pre-Instruction](/../main/proposals/images/Figure1.png)
 
 ## Goals and objectives
 

@@ -2,7 +2,7 @@
 
 ## Abstract
 
-Drowning is a leading cause of death for Hawaii's children. Although Hawaii is an island state, our keiki are inadequately prepared for water-related emergencies. Equal access to standards-based aquatic safety education is essential to reduce the risk of both fatal and nonfatal childhood drownings throughout the state. The most effective path to reach the highest number of children is to support our elementary schools with the resources necessary to provide water safety and swim skill instruction during school hours. By implementing aquatic injury prevention curricula that align with state and national health and physical education standards, participating schools are able to enhance the health and well-being of their students.
+Drowning is a leading cause of death for Hawaii's children. Although Hawaii is an island state, our keiki are inadequately prepared for water-related emergencies. Equal access to standards-based aquatic safety education is essential to reduce the risk of both fatal and nonfatal childhood drownings throughout the state. The most effective path to reach the highest number of children is to support our elementary schools with the resources necessary to provide water safety and swim skill instruction during school hours. By implementing aquatic injury prevention curricula that align with state and national health and physical education standards, participating schools can enhance the health and well-being of their students.
 
 ## Organization history and purpose
 
@@ -16,7 +16,7 @@ Since our inception, over 2,500 students from twenty-five public and charter ele
 
 ## Problem statement
 
-According to the Hawaii Department of Health, from 2014 through 2018, injuries were responsible for more deaths of Hawaii’s children (ages 1-14) than all other causes, including infectious and chronic diseases. During the same time period, drowning was the leading cause of unintentional injury death for Hawaii’s children.[[1]](#_ftn1)
+According to the Hawaii Department of Health, from 2014 through 2018, injuries were responsible for more deaths of Hawaii’s children (ages 1-14) than all other causes, including infectious and chronic diseases. During the same period, drowning was the leading cause of unintentional injury death for Hawaii’s children.[[1]](#_ftn1)
 
 From 2014 through 2018, nonresidents accounted for 54% of the fatal drownings in Hawaii for all ages combined. By contrast, Hawaii’s children (ages 0-17) accounted for 96% of the fatal child drownings — occurring in places such as homes, beaches, and inland waterways (e.g., ponds, reservoirs, and streams). During the same 5-year period, there was an annual average of 70 EMS-attended nonfatal child drownings in Hawaii.[[2]](#_ftn2) Nonfatal drowning injuries can cause severe brain damage, similar to blunt force trauma, and can result in long-term disabilities, such as memory problems, learning disabilities, and permanent loss of basic functioning (i.e., permanent vegetative state).
 
@@ -33,7 +33,7 @@ A statewide school survey was conducted by HAF during the spring of 2017. The su
 
 Nationally, both the fatal and nonfatal drowning rates are higher for children who are in low socioeconomic or ethnic minority groups. In the fall of 2019, HAF completed an income disparity report of 947 Hawaii second-grade-aged students (ages 7-8) from fifteen different schools in five HIDOE complex areas over a two-year period. The report, consistent with national findings, provides direct evidence that Hawaii’s children from lower-income areas are at a disadvantage with significantly reduced water safety and swim skill abilities when compared to moderate-income and higher-income areas. In addition to the opportunity gap identified for lower-income groups, the data summarized in Table 1 and Figure 1 below affirms the need for formal aquatic safety education for all children.
 
-An early 1980s study performed by the City and County of Honolulu Department of Parks and Recreation found that 70% of a tested group of 4,500 students, 7-14 years in age, were unable to swim 50 yards.[[6]](#_ftn6) HAA’s 2018-19 school year report of 564 second grade-aged students identified similar deficiencies in multiple protective skills. The students were assessed during their first in-water lesson for proficiency relative to grade level benchmarks in three basic aquatic motor skills: floating, treading, and swimming. As presented in Table 1, only 31% of the students could swim for 25 yards. Further, only 13% of the students were able to tread for 60 seconds, and only 12% were able to float for 30 seconds.
+An early 1980s study performed by the City and County of Honolulu Department of Parks and Recreation found that 70% of a tested group of 4,500 students, 7-14 years in age, were unable to swim 50 yards.[[6]](#_ftn6) HAA’s 2018-19 school year report of 564 second grade-aged students identified similar deficiencies in multiple protective skills. The students were assessed during their first in-water lesson for proficiency relative to grade-level benchmarks in three basic aquatic motor skills: floating, treading, and swimming. As presented in Table 1, only 31% of the students could swim for 25 yards. Further, only 13% of the students were able to tread for 60 seconds, and only 12% were able to float for 30 seconds.
 
 Table 1
 
@@ -80,13 +80,13 @@ Our program is integrated with each school’s existing curriculum requirements 
 | :--- | :--- |
 | ● Coordinating with participating schools | ● Providing safety equipment |
 | ● Scheduling pool facility reservations | ● Supporting school chaperones |
-|	● Organizing transportation | ● Ensuring an average instructor-student ratio of 1:4 |
+| ● Organizing transportation | ● Ensuring an average instructor-student ratio of 1:4 |
 | ● Scheduling instructors and support staff | ● Facilitating instructor, staff, and volunteer training |
 | ● Procuring appropriate swimwear for students in lower-income areas |  |
 | **Instructional activities** | **Post-instruction activities** |
 | ● Developing lesson plans | ● Distributing parent safety information |
 | ● Tracking attendance | ● Analyzing student assessment data |
-|	● Providing instruction | ● Generating student performance reports and school summaries |
+| ● Providing instruction | ● Generating student performance reports and school summaries |
 | ● Performing assessments | ● Producing annual statewide reports |
 | ● Accommodating special needs students |  |
 
@@ -111,13 +111,13 @@ The student learning outcomes for our aquatic safety competency learning objecti
 
 HAF’s programs and community outreach efforts incorporate health and wellness injury prevention education theory to address social determinants of health (SDOH) for Hawaii’s children and families. Our curricula incorporate elements of the CDC’s social-ecological model for injury prevention, which highlights the complex interplay between individual, relationship, community, and societal factors.
 
-Student engagement, social development, self-confidence, and self-dependence are all enhanced through teaching methods applied by instructors while in a controlled aquatic environment. Primary teachers have observed that their students are more attentive and invested after participation, and the social connection between them is enhanced due to the experiences they shared at the pool.
+Student engagement, social development, self-confidence, and self-dependence are all enhanced through teaching methods applied by instructors while in a controlled aquatic environment. Primary teachers have observed that their students are more attentive and invested after participation, and the social connection between them is enhanced due to the experiences they share at the pool.
 
 It is widely accepted that student attendance is a powerful predictor of academic success. In the Honolulu Civil Beat article “Why Nearly Half The Kids In An Island State Can’t Swim” (November 4, 2019), Ned Uemae, principal at Kauluwela Elementary in Kalihi, noted that more students showed up to school on the days his four second grade classes were scheduled to have pool lessons with HAA. Uemae stated, “That’s one of the challenges we have — making sure kids come to school every day. When they come back [from the pool] and I see them, they’re so happy.”
 
 ## Program timeline
 
-The timeline for the 2023–24 school year of the program is aligned with the HIDOE school quarters (Q1–Q4). The number of students per quarter is distributed evenly throughout the school year, with the exception of a reduced number during the months of January through March (i.e., Q3) due to cooler pool water temperatures in non-heated pools. The distribution across islands and HIDOE complex areas will vary from quarter to quarter based on each school’s preferences and pool facility availability. The planned distribution of students is as follows:
+The timeline for the 2023–24 school year of the program is aligned with the HIDOE school quarters (Q1–Q4). The number of students per quarter is distributed evenly throughout the school year, with the exception of a reduced number during January through March (i.e., Q3) due to cooler pool water temperatures in non-heated pools. The distribution across islands and HIDOE complex areas will vary from quarter to quarter based on each school’s preferences and pool facility availability. The planned distribution of students is as follows:
 
 | Q1 | Q2 | Q3 | Q4 |
 | :--: | :--: | :--: | :--: |
@@ -137,7 +137,7 @@ We continually pursue additional sources of funding and grant opportunities for 
 
 ## Conclusion
 
-In order to reduce the risk of childhood drowning in our state, we believe every child should be provided equal access to a standards-based aquatic safety education during school hours. This data-driven position is affirmed by the reality that the majority of Hawaii’s children lack the set of basic skills necessary for drowning avoidance and self-recovery. The intervention of HAA’s school-supported program, as further evidenced by the evaluation of post-instruction assessment data, demonstrates that measurable progress can be achieved toward a child’s development of personal aquatic safety competence regardless of their physical condition or their cultural, social, or economic circumstances.
+To reduce the risk of childhood drowning in our state, we believe every child should be provided equal access to a standards-based aquatic safety education during school hours. This data-driven position is affirmed by the reality that the majority of Hawaii’s children lack the set of basic skills necessary for drowning avoidance and self-recovery. The intervention of HAA’s school-supported program, as further evidenced by the evaluation of post-instruction assessment data, demonstrates that measurable progress can be achieved toward a child’s development of personal aquatic safety competence regardless of their physical condition or their cultural, social, or economic circumstances.
 
 Providing Hawaii’s elementary schools with the resources and expertise necessary to implement comprehensive aquatic safety education programs is the most effective path to reach the highest number of children. The goals of HAF’s aquatic injury prevention programs are aligned with the recommendations of the CDC, ILS, WHO, and other internationally recognized organizations and researchers. We look forward to the opportunity of working with like-minded community partners toward our shared goal of promoting the health and well-being of Hawaii’s children. Together we can make a difference by helping “To prepare the children of Hawaii with the attitudes, knowledge, skills, and experience they need to become Water Safer for Life®.”
 

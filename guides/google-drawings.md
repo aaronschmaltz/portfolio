@@ -34,7 +34,7 @@ Click **Standard 4:3** and change the selected option to **Custom**. This allows
 
 Enter **width** (left) and **height** (right) dimensions that exceed the dimensions of your image. Select **Pixels** (the unit of measurement for digital graphics). Press **Apply**.
 
-**Note:** If the _canvas size_ is smaller in width and height than the imported image, the image will be warped during import. Avoiding Google Drawings’ automated resizing is recommended since the image's original quality will get compromised.
+**Note:** If the _canvas size_ is smaller in width and height than the imported image, the image will be warped during import. Avoiding Google Drawings’ automated resizing is recommended since the image's original quality will become compromised.
 
 <img src="https://github.com/aaronschmaltz/portfolio/blob/main/guides/images/google-drawings-custom.png" width=75% height=75%>
 

@@ -20,7 +20,7 @@ Open the location in the **Drive** where you want to save your **Google Drawing*
 
 To edit the canvas size, click **File** and then **Page setup**.
 
-**Note:** There is an important distinction between _canvas_ size and _image_ size. _Canvas_ refers to the fully editable area of the workspace (this includes the empty pixels, denoted by the checkered background pattern). Exported images will have the exact dimensions as the canvas; they will only contain content visible within the borders of the canvas (anything that goes outside the canvas will get cropped out during export). _Image_ size refers to the original dimensions of an image (not the canvas).
+**Note:** There is a distinction between _canvas_ size and _image_ size. _Canvas_ refers to the fully editable area of the workspace (this includes empty pixels, denoted by the checkered background pattern). Exported images will have the exact dimensions as the canvas; they will only contain content visible within the borders of the canvas (anything that is located outside the borders will be excluded during export). _Image_ size refers to the original dimensions of an image (not the canvas).
 
 <img src="https://github.com/aaronschmaltz/portfolio/blob/main/guides/images/google-drawings-page-setup.png" width=75% height=75%>
 
@@ -32,9 +32,9 @@ Click **Standard 4:3** and change the selected option to **Custom**. This allows
 
 ### Step 4
 
-Enter **width** (left) and **height** (right) dimensions that exceed the dimensions of your image. Select **Pixels** (the unit of measurement for digital graphics). Press **Apply**.
+Enter **width** (left) and **height** (right) dimensions that exceed the dimensions of your image. Select **Pixels** (i.e., the unit of measurement for digital displays). Press **Apply**.
 
-**Note:** If the _canvas size_ is smaller in width and height than the imported image, the image will be warped during import. Avoiding Google Drawings’ automated resizing is recommended since the image's original quality will become compromised.
+**Note:** If the _canvas size_ is smaller in width and height than the imported image, the image will be warped during import to fit within the canvas borders. Avoiding Google Drawings’ automated resizing is recommended since the image's quality will become compromised.
 
 <img src="https://github.com/aaronschmaltz/portfolio/blob/main/guides/images/google-drawings-custom.png" width=75% height=75%>
 
@@ -66,7 +66,7 @@ If you are having difficulties determining what dimensions you want to use, comp
 
 Paste the image that you recently deleted by right-clicking and then pressing **Paste**.
 
-If **Steps 5–8** were performed correctly, the imported image will retain its original properties.
+If **Steps 5–8** were performed correctly, the imported image will retain its original dimensions.
 
 <img src="https://github.com/aaronschmaltz/portfolio/blob/main/guides/images/google-drawings-paste.png" width=75% height=75%>
 
@@ -80,7 +80,7 @@ Select the image and position it so that the portion of the image you want displ
 
 ## Cropping the image
 
-Cropping entails the removal of unnecessary parts of an image so that only a portion of it is included in the final export. If the image's width and height dimensions exceed the respective dimensions of the export (i.e., the dimensions used for **Page setup**), then the image will need to be cropped. Conversely, if the image's dimensions are smaller than the intended final dimensions of the export, then the image will need to be upscaled. However, upscaling an image natively in **Google Drawings** is not recommended as it may compromise resolution and quality.
+Cropping entails the removal of parts of an image so that only a portion of it is included during the export. If the image's width and height dimensions exceed the respective dimensions of the export (i.e., the dimensions used for **Page setup**), then the image must be cropped. Conversely, if the image's dimensions are smaller than the intended final dimensions of the export, then the image will need to be upscaled. However, upscaling an image natively in **Google Drawings** is not recommended as it compromises resolution and quality.
 
 ### Step 1
 
@@ -98,7 +98,7 @@ There are two selectable borders: **blue** and **black**. Selecting and moving t
 
 Move each of the four sides (black borders) so that they snap to the side of the canvas (a blue line with cross marks will appear, indicating that the cropping of the image is in alignment with the edge of the canvas).
 
-**Note:** If the original size of your image drastically exceeds that of your canvas size, it may help to crop the image in smaller, incremental amounts gradually.
+**Note:** If the original size of your image drastically exceeds that of your canvas size, it may help to crop the image in smaller, incremental amounts.
 
 <img src="https://github.com/aaronschmaltz/portfolio/blob/main/guides/images/google-drawings-crop.png" width=75% height=75%>
 
